@@ -1,0 +1,26 @@
+.tunisianet-nav {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e1e1e1;
+  }
+  
+  .nav-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-width: 1200px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+  
+  .nav-item {
+    padding: 12px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    border-right: 1px solid #e1e1e1;
+  }
+  
+  .nav-item:hover {
+    background-color: #e9ecef;
+    color: #0056b3;
+  }

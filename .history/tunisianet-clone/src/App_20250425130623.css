@@ -1,0 +1,21 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+/* Style global pour le carrousel */
+.slick-slider {
+  direction: ltr; /* Important pour le RTL */
+}
+.tunisianet-app {
+  font-family: 'Arial', sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  color: #333;
+}
+
+.main-title {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 15px;
+  border-bottom: 1px solid #e1e1e1;
+  margin-bottom: 20px;
+}

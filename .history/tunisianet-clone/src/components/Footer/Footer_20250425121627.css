@@ -1,0 +1,17 @@
+.tunisianet-footer {
+    background-color: #343a40;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .tunisianet-footer p {
+    margin: 0;
+    font-size: 14px;
+  }
